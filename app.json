@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Easy Maths Learning",
+    "slug": "easy-maths-learning",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#7C3AED"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#7C3AED"
+      }
+    }
+  }
+}

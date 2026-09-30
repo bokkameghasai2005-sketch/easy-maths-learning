@@ -1,0 +1,36 @@
+# easy-maths-learning
+
+Easy Maths Learning is a quick mobile app built with Expo for Android and iOS. The app helps children practice addition, subtraction, multiplication, and division through simple quiz-style questions.
+
+## Features
+- Multiple difficulty levels
+- Math question generator
+- Score and streak tracking
+- Simple, colorful UI
+- Works on both Android and iOS with Expo
+
+## Run locally
+
+1. Install dependencies:
+   npm install
+
+2. Start the Expo app:
+   npm start
+
+3. On a phone:
+   - Install Expo Go
+   - Scan the QR code
+
+4. Or run directly on emulator:
+   npm run android
+   npm run ios
+
+## Technologies
+- Expo
+- React Native
+- JavaScript
+
+## Quick start
+
+npm install
+npm start
